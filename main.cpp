@@ -4,7 +4,7 @@
 using namespace std;
 
 int num_trucks=0, num_cars=0, num_bikes=0, charges=0, total=0; 
-// 15, 10, 7
+
 void truck(){
     num_trucks++;
     charges = charges + 15;
